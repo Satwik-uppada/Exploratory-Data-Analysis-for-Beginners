@@ -1,0 +1,5 @@
+Student Name,Class,Sec,Percentage,Age,Grade
+John Doe,10th,A,80,15,A
+Jane Doe,11th,B,90,16,A
+Peter Smith,12th,A,75,17,B
+Mary Johnson,12th,B,85,18,A
