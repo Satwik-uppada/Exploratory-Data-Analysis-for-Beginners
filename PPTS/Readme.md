@@ -13,5 +13,5 @@ Welcome to the collection of PowerPoint presentations from my Exploratory Data A
 - **Case Studies and Examples**: Practical examples and case studies demonstrating EDA concepts in action.
 
 ## Links to Presentations
-Day 12 PPT: [Link] (https://docs.google.com/presentation/d/1CMFesL_BYLDVQo6prWhmUCwe069sYRje/edit#slide=id.p1)
-Day 13 PPT: [Link] (https://docs.google.com/presentation/d/1NYCwtgaT8v5R1O4gfGV-U-mSd-qQtRr-/edit#slide=id.p2)
+- Day 12 PPT: [Link](https://docs.google.com/presentation/d/1CMFesL_BYLDVQo6prWhmUCwe069sYRje/edit#slide=id.p1)
+- Day 13 PPT: [Link](https://docs.google.com/presentation/d/1NYCwtgaT8v5R1O4gfGV-U-mSd-qQtRr-/edit#slide=id.p2)
